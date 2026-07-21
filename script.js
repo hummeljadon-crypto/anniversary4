@@ -1,5 +1,5 @@
 const CONFIG = {
-  girlfriendName: "baby girl",
+  girlfriendName: "my baby girl",
   heroName: "Jadon",
   endingLine: "Happy 4 months",
   letterDate: "21.07.2026",
