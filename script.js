@@ -49,9 +49,12 @@ Until then, I will be here, by your side through it all.
 `,
 
   letterSignoff: `
-Siempre tuyo, mi vida,,
+Siempre tuyo, mi vida,
 
 Jadon
+
+
+
 
 P.D. Sí, soy Batman.
 `
