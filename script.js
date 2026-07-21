@@ -1,5 +1,5 @@
 const CONFIG = {
-  girlfriendName: "baby girl",
+  girlfriendName: "my baby girl",
   heroName: "Jadon",
   endingLine: "Happy 4 months",
   letterDate: "21.07.2026",
@@ -49,7 +49,7 @@ Until then, I will be here, by your side through it all.
 `,
 
   letterSignoff: `
-Siempre tuyo, mi amor,
+Siempre tuyo, mi vida,,
 
 Jadon
 `
