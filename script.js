@@ -3,7 +3,6 @@ const CONFIG = {
   heroName: "Jadon",
   endingLine: "Happy 4 months",
 
-$("#letterGreeting").textContent = "Dear Dannianlys,";
   
   letterText: `
 I want you to know that I am here for you, and I will always be here.
@@ -89,7 +88,7 @@ let toastTimer = null;
 
 $("#girlfriendName").textContent = CONFIG.girlfriendName + " ❤️";
 $("#endingTitle").textContent = CONFIG.endingLine;
-$("#letterGreeting").textContent = `To my ${CONFIG.girlfriendName},`;
+$("#letterGreeting").textContent = "Dear Dannianlys,";
 $("#letterBody").textContent = CONFIG.letterText;
 $("#letterSignoff").textContent = CONFIG.letterSignoff;
 $("#batmanLine").textContent = `${CONFIG.heroName}. Her boyfriend.`;
