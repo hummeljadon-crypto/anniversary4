@@ -48,13 +48,10 @@ I would choose you in every timeline, no matter how we met or how long it took u
 Until then, I will be here, by your side through it all.
 `,
 
-  letterSignoff: `
+ letterSignoff: `
 Siempre tuyo, mi vida,
 
 Jadon
-
-
-
 
 P.D. Sí, soy Batman.
 `
