@@ -1,14 +1,59 @@
 const CONFIG = {
-  girlfriendName: "baby girl",
+  girlfriendName: "Cutie pie, Dannianlys",
   heroName: "Jadon",
   endingLine: "Happy 4 months",
 
-  letterText:
-    "Four months with you have already given me so many favourite moments.\n\n" +
-    "You make ordinary days better, you make me laugh, and somehow you still choose me—even when I’m being Batman.\n\n" +
-    "I’m really lucky to love you. Happy four months, my baby girl.",
+$("#letterGreeting").textContent = "Dear Dannianlys,";
+  
+  letterText: `
+I want you to know that I am here for you, and I will always be here.
 
-  letterSignoff: "Love,\nyour Batman — Jadon"
+Challenges and problems will come, but they will also pass. Through all of them, it will always be you and me against the problem, not against each other. We are a team, and no matter what life throws at us, we will stick together, overcome it, and grow through it.
+
+It will not always be easy, but that is part of the point. Love is more than just a feeling. It is a commitment and a choice you continue to make, not because it feels like work, but because there is truly no one else you would rather choose.
+
+There is no one else I would rather spend my time with than you. Whether we are sharing exciting moments, working towards our goals, or simply sitting together doing nothing with no words needed, I want it all with you.
+
+I will support you in everything you want to achieve, just as I know you will support me. My wins are yours, and your wins are mine. We are building something together.
+
+You have brought so much light into my life, not only because of how beautiful you are and that gorgeous face of yours...
+
+Oh my.
+
+I just need a second.
+
+Damn, my heart.
+
+Help.
+
+Ahhh...
+
+Anyway, besides all of that, it is the person you are that makes you truly beautiful.
+
+I admire your creativity, your compassion for others, and the way you show care. Those qualities make me see the wonderful mother I know you will one day be. I have always thought carefully about the kind of person I would want to build a family with, and when I look at you, I can already see it.
+
+I see the family we will create and the teamwork within it. On the days when you do not have the energy, I will step in. On the days when I struggle, you will be there for me. Together, we will create a beautiful home. A home where we always have each other’s backs and remain beside one another through both the good and the bad.
+
+The wait may sometimes feel long, but truthfully, I am not afraid.
+
+Distance and time are problems that can eventually be solved. But finding a love like this, finding you in a world this big, against all the odds and through all the tiny moments that somehow led us to each other, is something incredibly rare.
+
+Sometimes we need to sit back and be grateful for what we have found.
+
+I know the direction my future is going. I know what I am building towards and what we are building towards. Something solid, real, and worth more than anything else I could achieve.
+
+I cannot wait for the day we finally live under the same roof. At the same time, I will wait for however long it takes, because I do not want any other ending unless it is with you.
+
+I would choose you in every timeline, no matter how we met or how long it took us to get there. Fortunately, in this timeline, that future is becoming more and more real.
+
+Until then, I will be here, by your side through it all.
+`,
+
+letterSignoff: `
+Always yours,
+
+Jadon
+`
 };
 
 const $ = (selector, parent = document) => parent.querySelector(selector);
