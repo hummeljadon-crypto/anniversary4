@@ -2238,6 +2238,7 @@ h2{
   font-size:1.15rem;
   font-style:italic;
   line-height:1.55;
+  white-space: pre-wrap;
 }
 .letter-heart{
   margin-top:22px;
